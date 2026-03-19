@@ -1,0 +1,5 @@
+John Doe
+Experienced Java developer with 2 years experience.
+Worked on Spring Boot projects.
+Built web applications using HTML, CSS and JavaScript.
+Completed Machine Learning certification.
